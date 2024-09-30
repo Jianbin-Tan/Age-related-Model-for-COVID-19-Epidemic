@@ -5,12 +5,16 @@ This README accompanies the paper titled "Age-Related Model for Estimating the S
 ## Citation
 If you find our code, data, or methodology useful, you may cite us as:
 
-    @inproceedings{haija2021fsvd,
-      title={Fast Graph Learning with Unique Optimal Solutions},
-      author={Sami Abu-El-Haija AND Valentino Crespi AND Greg Ver Steeg AND Aram Galstyan},
-      year={2021},
-      booktitle={arxiv:2102.08530},
-    }
+    @article{tan2023age,
+  title={Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients},
+  author={Tan, Jianbin and Shen, Ye and Ge, Yang and Martinez, Leonardo and Huang, Hui},
+  journal={Biometrics},
+  volume={79},
+  number={3},
+  pages={2525--2536},
+  year={2023},
+  publisher={Oxford University Press}
+}
 
 
 ## Citation
