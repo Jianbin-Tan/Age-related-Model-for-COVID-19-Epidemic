@@ -6,14 +6,14 @@ This README accompanies the paper titled "Age-Related Model for Estimating the S
 If you find our code, data, or methodology useful, you may cite us as:
 
     @article{tan2023age,
-       title={Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients},
-       author={Tan, Jianbin and Shen, Ye and Ge, Yang and Martinez, Leonardo and Huang, Hui},
-       journal={Biometrics},
-       volume={79},
-       number={3},
-       pages={2525--2536},
-       year={2023},
-       publisher={Oxford University Press}
+      title={Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients},
+      author={Tan, Jianbin and Shen, Ye and Ge, Yang and Martinez, Leonardo and Huang, Hui},
+      journal={Biometrics},
+      volume={79},
+      number={3},
+      pages={2525--2536},
+      year={2023},
+      publisher={Oxford University Press}
     }
 
 ---
