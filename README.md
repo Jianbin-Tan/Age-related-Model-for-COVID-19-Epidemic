@@ -3,6 +3,17 @@
 This README accompanies the paper titled "Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients," authored by Jianbin Tan, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang. The paper is published in [Biometrics](https://academic.oup.com/biometrics/article/79/3/2525/7513834?login=false).
 
 ## Cite
+If you find our code useful, you may cite us as:
+
+    @inproceedings{haija2021fsvd,
+      title={Fast Graph Learning with Unique Optimal Solutions},
+      author={Sami Abu-El-Haija AND Valentino Crespi AND Greg Ver Steeg AND Aram Galstyan},
+      year={2021},
+      booktitle={arxiv:2102.08530},
+    }
+
+
+## Citation
 Please cite the following if you utilize this code, data, or methodology in your research:
 
 @article{tan2023age,
