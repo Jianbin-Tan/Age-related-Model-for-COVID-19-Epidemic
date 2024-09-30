@@ -16,9 +16,9 @@ Please cite the following if you utilize this code, data, or methodology in your
   year={2023},
   publisher={Oxford University Press}
 }
----
 
-## 1. Data
+---
+## Data
 ### 1.1 Abstract
 
 - Information was collected from all confirmed cases during this wave, totaling 1,342 individuals. The data includes individual-level symptom onset dates, confirmation dates, and ages for both symptomatic and asymptomatic patients. This dataset was instrumental in distinguishing between asymptomatic and pre-symptomatic cases, noting that all were infected by early strains of the SARS-CoV-2 virus.
@@ -32,7 +32,7 @@ The datasets necessary to reproduce our findings are available.
 The dataset "ALL_dat.rda" within the "Data" folder contains contact matrices, susceptibility parameters, demographic details of different age groups, initial cases for all compartments, daily cases for seven age groups, and observed periods of symptomatic transmission across all age groups.
 
 ---
-## 2. Code
+## Code
 ### 2.1 Abstract
 The age-related model, along with two fundamental models referenced in the paper, were utilized for simulations and data analysis.
 
