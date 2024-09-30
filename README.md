@@ -16,6 +16,7 @@ Please cite the following if you utilize this code, data, or methodology in your
   year={2023},
   publisher={Oxford University Press}
 }
+```bibtex
 
 ## 1. Data
 ### 1.1 Abstract
