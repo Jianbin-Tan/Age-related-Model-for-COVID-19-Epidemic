@@ -1,24 +1,19 @@
-# Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients
+# tf-fsvd
+TensorFlow Implementation of Functional Singular Value Decomposition for paper
+[**Fast Graph Learning with Unique Optimal Solutions**](https://arxiv.org/abs/2102.08530)
 
-This README accompanies the paper titled "Age-Related Model for Estimating the Symptomatic and Asymptomatic Transmissibility of COVID-19 Patients," authored by Jianbin Tan, Ye Shen, Yang Ge, Leonardo Martinez, and Hui Huang. The paper is published in [Biometrics](https://academic.oup.com/biometrics/article/79/3/2525/7513834?login=false).
+## Cite
+If you find our code useful, you may cite us as:
 
-## Citation
-Please cite the following if you utilize this code, data, or methodology in your research:
-
-```bibtex
-@article{tan2023age,
-  title={Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients},
-  author={Tan, Jianbin and Shen, Ye and Ge, Yang and Martinez, Leonardo and Huang, Hui},
-  journal={Biometrics},
-  volume={79},
-  number={3},
-  pages={2525--2536},
-  year={2023},
-  publisher={Oxford University Press}
-}
-
+    @inproceedings{haija2021fsvd,
+      title={Fast Graph Learning with Unique Optimal Solutions},
+      author={Sami Abu-El-Haija AND Valentino Crespi AND Greg Ver Steeg AND Aram Galstyan},
+      year={2021},
+      booktitle={arxiv:2102.08530},
+    }
+    
 ---
-## Data
+## 1. Data
 ### 1.1 Abstract
 
 - Information was collected from all confirmed cases during this wave, totaling 1,342 individuals. The data includes individual-level symptom onset dates, confirmation dates, and ages for both symptomatic and asymptomatic patients. This dataset was instrumental in distinguishing between asymptomatic and pre-symptomatic cases, noting that all were infected by early strains of the SARS-CoV-2 virus.
@@ -32,7 +27,7 @@ The datasets necessary to reproduce our findings are available.
 The dataset "ALL_dat.rda" within the "Data" folder contains contact matrices, susceptibility parameters, demographic details of different age groups, initial cases for all compartments, daily cases for seven age groups, and observed periods of symptomatic transmission across all age groups.
 
 ---
-## Code
+## 2. Code
 ### 2.1 Abstract
 The age-related model, along with two fundamental models referenced in the paper, were utilized for simulations and data analysis.
 
