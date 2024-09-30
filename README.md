@@ -6,30 +6,15 @@ This README accompanies the paper titled "Age-Related Model for Estimating the S
 If you find our code, data, or methodology useful, you may cite us as:
 
     @article{tan2023age,
-  title={Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients},
-  author={Tan, Jianbin and Shen, Ye and Ge, Yang and Martinez, Leonardo and Huang, Hui},
-  journal={Biometrics},
-  volume={79},
-  number={3},
-  pages={2525--2536},
-  year={2023},
-  publisher={Oxford University Press}
-}
-
-
-## Citation
-Please cite the following if you utilize this code, data, or methodology in your research:
-
-@article{tan2023age,
-  title={Age-related model for estimating the symptomatic and asymptomatic transmissibility of COVID-19 patients},
-  author={Tan, Jianbin and Shen, Ye and Ge, Yang and Martinez, Leonardo and Huang, Hui},
-  journal={Biometrics},
-  volume={79},
-  number={3},
-  pages={2525--2536},
-  year={2023},
-  publisher={Oxford University Press}
-}
+    title={Age-related model for estimating the symptomatic and asymptomatic transmissibility of    COVID-19 patients},
+    author={Tan, Jianbin and Shen, Ye and Ge, Yang and Martinez, Leonardo and Huang, Hui},
+    journal={Biometrics},
+    volume={79},
+    number={3},
+    pages={2525--2536},
+    year={2023},
+    publisher={Oxford University Press}
+   }
 
 ---
 ## 1. Data
@@ -45,7 +30,6 @@ The datasets necessary to reproduce our findings are available.
 ### 1.3 Data Dictionary
 The dataset "ALL_dat.rda" within the "Data" folder contains contact matrices, susceptibility parameters, demographic details of different age groups, initial cases for all compartments, daily cases for seven age groups, and observed periods of symptomatic transmission across all age groups.
 
----
 ## 2. Code
 ### 2.1 Abstract
 The age-related model, along with two fundamental models referenced in the paper, were utilized for simulations and data analysis.
